@@ -1,0 +1,34 @@
+{ 
+    "products": [ 
+        { "id": "P01",
+        "name": "Áo thun Form Rộng Oversize", 
+        "price": 199000, 
+        "stock": {"M": 15, "L": 20, "XL": 0}, 
+        "status": "Còn hàng" 
+        }, 
+        { 
+            "id": "P02", 
+            "name": "Quần Jean Baggy Unisex", 
+            "price": 350000, 
+            "stock": {"30": 8, "31": 5, "32": 0}, 
+            "status": "Còn hàng" 
+            }, 
+            { 
+                "id": "P03", 
+                "name": "Áo Sơ Mi Lụa Hàn Quốc", 
+                "price": 250000, 
+                "stock": {"M": 0, "L": 0}, 
+                "status": "Hết hàng" 
+                } ], 
+                "promotions": [ 
+                    { 
+                        "code": "MAGIAM20", 
+                        "discount": "Giảm 20.000 VNĐ cho đơn từ 200.000 VNĐ", 
+                        "note": "Áp dụng cho mọi sản phẩm còn hàng trên livestream" 
+                        } 
+                        ], 
+                        "faqs": { 
+                            "shipping": "Phí ship toàn quốc là 30.000 VNĐ. Đơn từ 500.000 VNĐ được Freeship.", 
+                            "return_policy": "Hỗ trợ đổi hàng trong 7 ngày nếu còn nguyên tem mạc." 
+                            } 
+                        }
